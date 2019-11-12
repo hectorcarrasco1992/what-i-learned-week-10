@@ -22,3 +22,10 @@
 ![orirginal](Screen&#32;Shot&#32;2019-11-11&#32;at&#32;8.05.51&#32;PM.png)
 
 ---
+
+## Holey/moley 
+
+* In this project we learned how to make the holy grail of responsive web layout.
+* ![holy-grail](Screen&#32;Shot&#32;2019-11-11&#32;at&#32;8.20.35&#32;PM.png)
+* the key here was to use @media and set the limits of the width of the screen to match phones/tablets.
+* then within the @media you add css and manipulate the flexboxes until it looks good on all platforms.
