@@ -15,4 +15,10 @@
 
 ## Copy-Ocelot
 * Similar to Insatbox except with a more complex webpage to copy.
-* 
+* The page i chose was GrubHub
+
+![My page](Screen&#32;Shot&#32;2019-11-11&#32;at&#32;8.04.07&#32;PM.png)
+
+![orirginal](Screen&#32;Shot&#32;2019-11-11&#32;at&#32;8.05.51&#32;PM.png)
+
+---
